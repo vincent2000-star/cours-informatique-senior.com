@@ -5,6 +5,13 @@
     <title>Apprendre l'Informatique</title>
 
     <style>
+    <header>
+    <h1 style="display:none;">cours-informatique-senior.com</h1>
+    <h1>Bienvenue sur le site d'apprentissage informatique</h1>
+    <p>Apprenez à votre rythme, simplement et efficacement</p>
+</header>
+
+👉 Ça masque l’ancien titre
         body {
             font-family: Arial, sans-serif;
             margin: 0;
